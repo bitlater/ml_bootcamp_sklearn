@@ -34,7 +34,7 @@ Check for updates with the teachers on the first day. You are required to bring 
 
 ## Lectures
 
-### Machine learning part (from Monday to Friday)
+### Machine learning part
 
   1. [Machine learning: history, application, successes](https://data-psl.github.io/lectures2024/slides/01_machine_learning_successes)
   2. [Introduction to machine learning](https://data-psl.github.io/lectures2024/slides/02_intro_to_machine_learning)
@@ -72,7 +72,7 @@ Links open Colab notebooks. You may also clone [this repository](https://github.
  - [Pipeline](https://colab.research.google.com/github/data-psl/lectures2024/blob/main/notebooks/02_sklearn/06-Pipeline.ipynb) 
 
  3. Friday: [Optimization](https://colab.research.google.com/github/data-psl/lectures2024/blob/master/notebooks/03_optimization.ipynb) and the [Corrected notebook](https://colab.research.google.com/github/data-psl/lectures2024/blob/master/notebooks/03_optimization_corrected.ipynb)
- 4. Monday and Tuesday: Classification with PyTorch and GPUs
+ 4. Monday: Classification with PyTorch and GPUs
 
  - [Notebook 1](https://colab.research.google.com/github/data-psl/lectures2024/blob/main/notebooks/04_pytorch/01_introduction_to_pytorch.ipynb)
  - [Notebook 2](https://colab.research.google.com/github/data-psl/lectures2024/blob/main/notebooks/04_pytorch/02_simple_neural_network.ipynb)  [Corrected notebook](https://colab.research.google.com/github/data-psl/lectures2024/blob/main/notebooks/04_pytorch/02_simple_neural_network_corrected.ipynb)
