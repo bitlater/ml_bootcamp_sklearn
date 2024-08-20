@@ -1,6 +1,39 @@
 # Machine learning preparatory week @PSL
 
+## Discord server
+
+The afternoon are dedicated to practical sessions using Python. Students will be on their own under a weak supervision from the teachers. Students can use the [discord server](https://discord.gg/ZcBReVVbdZ) chat to communicate, share information, codes, data and help each other during these session.
+
+These practical sessions will necessitate the use of Python 3 with the standard Scipy ecosystem, Scikit-learn and Pytorch. They will make use of Jupyter notebooks. The easiest way to proceed is to have a gmail account and make use of a remote [Google Colab](https://colab.research.google.com/) to run the notebooks.
+
+## Expected Program
+This program is a first draft. It can change. The basic pattern is: course in the morning and labs in the afternoon. 
+Check for updates with the teachers on the first day. You are required to bring your computers for the practical sessions.
+
+**Day 1** (Wednesday August 28, 2024):
+* 9:00--10:30: (course) Machine learning: recent successes.
+* 11:00-12:30: (course) Introduction to machine learning.
+* 14:00-17:30: (lab session) Introduction to Python and Numpy for data sciences.
+
+**Day 2** (Thursday August 29, 2024):
+* 9:00--10:30: (course) Machine learning models (linear, trees, neural networks).
+* 11:00-12:30: (course) Scikit-learn: estimation/prediction/transformation.
+* 14:00-17:30: (lab session) Practice of Scikit-learn.
+
+**Day 3** (Friday August 30, 2024):
+* 9:00-12:30: (course) The linear model, optimization
+* 14:00-17:30: (lab session) Logistic regression with gradient descent.
+
+**Day 4** (Monday September 1, 2024):
+* 9:00-10:30: (course) Introduction to Deep-Learning
+* 11:00-12:30: (course) Introduction to unsupervised learning
+* 14:00-17:00 (lab session) Practical session
+
+**Day 5** (Tuesday September 2, 2024):
+* TBD (course/lab session) Spark for ML, part 1
+
 ## Lectures
+
 ### Machine learning part (from Monday to Friday)
 
   1. [Machine learning: history, application, successes](https://data-psl.github.io/lectures2024/slides/01_machine_learning_successes)
@@ -12,7 +45,7 @@
   7. [Deep learning: convolutional neural networks](https://data-psl.github.io/lectures2024/slides/07_deep_learning/)
   8. [Unsupervised learning](https://data-psl.github.io/lectures2024/slides/08_unsupervised_learning/)
 
-### Spark and Machine Learning (Wednesday and Friday afternoons)
+### Spark and Machine Learning
 [Slides from Dario Colazzo](https://data-psl.github.io/lectures2024/slides/psl-pw2021-colazzo.pdf)
 
 ### Ethics and Fairness (Wednesday morning)
