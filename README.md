@@ -48,10 +48,6 @@ Check for updates with the teachers on the first day. You are required to bring 
 ### Spark and Machine Learning
 [Slides from Dario Colazzo](https://data-psl.github.io/lectures2024/slides/psl-pw2021-colazzo.pdf)
 
-### Ethics and Fairness (Wednesday morning)
-[Slides from Thierry Kirat](https://data-psl.github.io/lectures2024/slides/psl-pw2023-kirat.pdf)
-
-
 
 ## Practical works
 
