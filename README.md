@@ -1,7 +1,7 @@
 # Intro to ML
 
 This class was intially designed for the preparatory week of PSL. In this repo, I make some adjustment to fit it to an audience of engineers.
-The dedicated slack channel is `#2025-bootcamp`. 
+The dedicated slack channel is `#2025-bootcamp`. Please use the channel to ask questions or if you need help to solve the exercices.
 
 ## Lectures
 
