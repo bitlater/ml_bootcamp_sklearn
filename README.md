@@ -25,47 +25,47 @@ These practical sessions will necessitate the use of Python 3 with the standard 
 
 **Day 1** (at home)
 * (lab session) Introduction to Python and Numpy for data sciences.
-  - [Python basics](https://colab.research.google.com/github/data-psl/lectures2024/blob/master/notebooks/01_python_basics.ipynb) [(corrected)](https://colab.research.google.com/github/data-psl/lectures2024/blob/master/notebooks/01_python_basics_corrected.ipynb)
+  - [Python basics](https://colab.research.google.com/github/hugorichard/MLIntro/blob/master/notebooks/01_python_basics.ipynb) [(corrected)](https://colab.research.google.com/github/hugorichard/MLIntro/blob/master/notebooks/01_python_basics_corrected.ipynb)
   
 * (lab session) Practice of Scikit-learn.
-  - [Preliminaries](https://colab.research.google.com/github/data-psl/lectures2024/blob/main/notebooks/02_sklearn/01-Preliminaries.ipynb)
-  - [intro](https://colab.research.google.com/github/data-psl/lectures2024/blob/main/notebooks/02_sklearn/02.1-Machine-Learning-Intro.ipynb) [(corrected)](https://colab.research.google.com/github/data-psl/lectures2024/blob/main/notebooks/02_sklearn/02.1-Machine-Learning-Intro_corrected.ipynb)
-  - [basic principles](https://colab.research.google.com/github/data-psl/lectures2024/blob/main/notebooks/02_sklearn/02.2-Basic-Principles.ipynb)   [(corrected)](https://colab.research.google.com/github/data-psl/lectures2024/blob/main/notebooks/02_sklearn/02.2-Basic-Principles_corrected.ipynb)
-  - [SVM](https://colab.research.google.com/github/data-psl/lectures2024/blob/main/notebooks/02_sklearn/03.1-Classification-SVMs.ipynb)  
-  - [Regression Forests](https://colab.research.google.com/github/data-psl/lectures2024/blob/main/notebooks/02_sklearn/03.2-Regression-Forests.ipynb)  [(corrected)](https://colab.research.google.com/github/data-psl/lectures2024/blob/main/notebooks/02_sklearn/03.2-Regression-Forests_corrected.ipynb)
-  - [PCA](https://colab.research.google.com/github/data-psl/lectures2024/blob/main/notebooks/02_sklearn/04.1-Dimensionality-PCA.ipynb)
-  - [Clustering](https://colab.research.google.com/github/data-psl/lectures2024/blob/main/notebooks/02_sklearn/04.2-Clustering-KMeans.ipynb) 
-  - [GMM](https://colab.research.google.com/github/data-psl/lectures2024/blob/main/notebooks/02_sklearn/04.3-Density-GMM.ipynb) 
-  - [Validation](https://colab.research.google.com/github/data-psl/lectures2024/blob/main/notebooks/02_sklearn/05-Validation.ipynb)  [(corrected)](https://colab.research.google.com/github/data-psl/lectures2024/blob/main/notebooks/02_sklearn/05-Validation_corrected.ipynb)
-  - [Pipeline](https://colab.research.google.com/github/data-psl/lectures2024/blob/main/notebooks/02_sklearn/06-Pipeline.ipynb) 
+  - [Preliminaries](https://colab.research.google.com/github/hugorichard/MLIntro/blob/main/notebooks/02_sklearn/01-Preliminaries.ipynb)
+  - [intro](https://colab.research.google.com/github/hugorichard/MLIntro/blob/main/notebooks/02_sklearn/02.1-Machine-Learning-Intro.ipynb) [(corrected)](https://colab.research.google.com/github/hugorichard/MLIntro/blob/main/notebooks/02_sklearn/02.1-Machine-Learning-Intro_corrected.ipynb)
+  - [basic principles](https://colab.research.google.com/github/hugorichard/MLIntro/blob/main/notebooks/02_sklearn/02.2-Basic-Principles.ipynb)   [(corrected)](https://colab.research.google.com/github/hugorichard/MLIntro/blob/main/notebooks/02_sklearn/02.2-Basic-Principles_corrected.ipynb)
+  - [SVM](https://colab.research.google.com/github/hugorichard/MLIntro/blob/main/notebooks/02_sklearn/03.1-Classification-SVMs.ipynb)  
+  - [Regression Forests](https://colab.research.google.com/github/hugorichard/MLIntro/blob/main/notebooks/02_sklearn/03.2-Regression-Forests.ipynb)  [(corrected)](https://colab.research.google.com/github/hugorichard/MLIntro/blob/main/notebooks/02_sklearn/03.2-Regression-Forests_corrected.ipynb)
+  - [PCA](https://colab.research.google.com/github/hugorichard/MLIntro/blob/main/notebooks/02_sklearn/04.1-Dimensionality-PCA.ipynb)
+  - [Clustering](https://colab.research.google.com/github/hugorichard/MLIntro/blob/main/notebooks/02_sklearn/04.2-Clustering-KMeans.ipynb) 
+  - [GMM](https://colab.research.google.com/github/hugorichard/MLIntro/blob/main/notebooks/02_sklearn/04.3-Density-GMM.ipynb) 
+  - [Validation](https://colab.research.google.com/github/hugorichard/MLIntro/blob/main/notebooks/02_sklearn/05-Validation.ipynb)  [(corrected)](https://colab.research.google.com/github/hugorichard/MLIntro/blob/main/notebooks/02_sklearn/05-Validation_corrected.ipynb)
+  - [Pipeline](https://colab.research.google.com/github/hugorichard/MLIntro/blob/main/notebooks/02_sklearn/06-Pipeline.ipynb) 
 
 **Day 2** (at home)
 * (lab session) Logistic regression with gradient descent.
-  - [Optimization](https://colab.research.google.com/github/data-psl/lectures2024/blob/master/notebooks/03_optimization.ipynb) and the [Corrected notebook](https://colab.research.google.com/github/data-psl/lectures2024/blob/master/notebooks/03_optimization_corrected.ipynb)
+  - [Optimization](https://colab.research.google.com/github/hugorichard/MLIntro/blob/master/notebooks/03_optimization.ipynb) and the [Corrected notebook](https://colab.research.google.com/github/hugorichard/MLIntro/blob/master/notebooks/03_optimization_corrected.ipynb)
 
 **Day 3** (at home)
 * (lab session) Classification with Pytorch and GPUs
-  - [Notebook 1](https://colab.research.google.com/github/data-psl/lectures2024/blob/main/notebooks/04_pytorch/01_introduction_to_pytorch.ipynb)
-  - [Notebook 2](https://colab.research.google.com/github/data-psl/lectures2024/blob/main/notebooks/04_pytorch/02_simple_neural_network.ipynb)  [Corrected notebook](https://colab.research.google.com/github/data-psl/lectures2024/blob/main/notebooks/04_pytorch/02_simple_neural_network_corrected.ipynb)
-  - [Notebook 3](https://colab.research.google.com/github/data-psl/lectures2024/blob/main/notebooks/04_pytorch/03_convolutional_neural_network_mnist.ipynb) [Corrected notebook](https://colab.research.google.com/github/data-psl/lectures2024/blob/main/notebooks/04_pytorch/03_convolutional_neural_network_mnist_corrected.ipynb)
+  - [Notebook 1](https://colab.research.google.com/github/hugorichard/MLIntro/blob/main/notebooks/04_pytorch/01_introduction_to_pytorch.ipynb)
+  - [Notebook 2](https://colab.research.google.com/github/hugorichard/MLIntro/blob/main/notebooks/04_pytorch/02_simple_neural_network.ipynb)  [Corrected notebook](https://colab.research.google.com/github/hugorichard/MLIntro/blob/main/notebooks/04_pytorch/02_simple_neural_network_corrected.ipynb)
+  - [Notebook 3](https://colab.research.google.com/github/hugorichard/MLIntro/blob/main/notebooks/04_pytorch/03_convolutional_neural_network_mnist.ipynb) [Corrected notebook](https://colab.research.google.com/github/hugorichard/MLIntro/blob/main/notebooks/04_pytorch/03_convolutional_neural_network_mnist_corrected.ipynb)
 
 
 ## Additional material (slides)
 
-[Optimization for linear models](https://data-psl.github.io/lectures2024/slides/05_optimization_linear_models/)
+[Optimization for linear models](https://hugorichard.github.io/MLIntro/slides/05_optimization_linear_models/)
 
-[Optimization for machine learning](https://data-psl.github.io/lectures2024/slides/06_optimization_general/)
+[Optimization for machine learning](https://hugorichard.github.io/MLIntro/slides/06_optimization_general/)
 
-[Deep learning: convolutional neural networks](https://data-psl.github.io/lectures2024/slides/07_deep_learning/)
+[Deep learning: convolutional neural networks](https://hugorichard.github.io/MLIntro/slides/07_deep_learning/)
 
-[Unsupervised learning](https://data-psl.github.io/lectures2024/slides/08_unsupervised_learning/)
+[Unsupervised learning](https://hugorichard.github.io/MLIntro/slides/08_unsupervised_learning/)
 
 ## Acknowledgements
 
 The slides and notebooks were originally written by [Pierre Ablin](https://pierreablin.com/), [Mathieu Blondel](https://mblondel.org/) and [Arthur Mensch](http://www.amensch.fr/).
 
 Some material of this course was borrowed and adapted:
-  * The slides from ["Deep learning: convolutional neural networks"](https://data-psl.github.io/lectures2024/slides/07_deep_learning/) are adapted from
+  * The slides from ["Deep learning: convolutional neural networks"](https://hugorichard.github.io/MLIntro/slides/07_deep_learning/) are adapted from
   Charles Ollion and Olivier Grisel's [advanced course on deep learning](!https://github.com/m2dsupsdlclass/lectures-labs) (released under the
   [CC-By 4.0 license](https://creativecommons.org/licenses/by/4.0/legalcode)).
   * The first notebooks of the scikit-learn tutorial are taken from Jake Van der Plas [tutorial](https://github.com/jakevdp/sklearn_tutorial).
