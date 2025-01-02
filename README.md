@@ -2,6 +2,22 @@
 
 This class was intially designed for the preparatory week of PSL. In this repo, I make some adjustment to fit it to an audience of engineers.
 
+## Lectures
+
+**Day 1**
+
+* 9:00--10:20: (course) Machine learning: recent successes.
+  [Machine learning: history, application, successes](https://data-psl.github.io/lectures2024/slides/01_machine_learning_successes)
+
+* 10:40-12:00: (course) Introduction to machine learning.
+  [Introduction to machine learning](https://data-psl.github.io/lectures2024/slides/02_intro_to_machine_learning)
+
+* 14:00--15:30: (course) Machine learning models (linear, trees, neural networks).
+  [Supervised machine learning models](https://data-psl.github.io/lectures2024/slides/03_machine_learning_models/)
+
+* 16:00-17:30: (course) Scikit-learn: estimation/prediction/transformation.
+  [Scikit-learn: estimation and pipelines](https://data-psl.github.io/lectures2024/slides/04_scikit_learn/)
+
 ## Practical sessions
 
 These practical sessions will necessitate the use of Python 3 with the standard Scipy ecosystem, Scikit-learn and Pytorch. They will make use of Jupyter notebooks. The easiest way to proceed is to have a gmail account and make use of a remote [Google Colab](https://colab.research.google.com/) to run the notebooks.
@@ -32,23 +48,15 @@ These practical sessions will necessitate the use of Python 3 with the standard 
   - [Notebook 2](https://colab.research.google.com/github/data-psl/lectures2024/blob/main/notebooks/04_pytorch/02_simple_neural_network.ipynb)  [Corrected notebook](https://colab.research.google.com/github/data-psl/lectures2024/blob/main/notebooks/04_pytorch/02_simple_neural_network_corrected.ipynb)
   - [Notebook 3](https://colab.research.google.com/github/data-psl/lectures2024/blob/main/notebooks/04_pytorch/03_convolutional_neural_network_mnist.ipynb) [Corrected notebook](https://colab.research.google.com/github/data-psl/lectures2024/blob/main/notebooks/04_pytorch/03_convolutional_neural_network_mnist_corrected.ipynb)
 
-## Lectures
-
-**Day 1**
-* 9:00--10:20: (course) Machine learning: recent successes.
-  [Machine learning: history, application, successes](https://data-psl.github.io/lectures2024/slides/01_machine_learning_successes)
-* 10:40-12:00: (course) Introduction to machine learning.
-  [Introduction to machine learning](https://data-psl.github.io/lectures2024/slides/02_intro_to_machine_learning)
-* 14:00--15:30: (course) Machine learning models (linear, trees, neural networks).
-  [Supervised machine learning models](https://data-psl.github.io/lectures2024/slides/03_machine_learning_models/)
-* 16:00-17:30: (course) Scikit-learn: estimation/prediction/transformation.
-  [Scikit-learn: estimation and pipelines](https://data-psl.github.io/lectures2024/slides/04_scikit_learn/)
 
 ## Additional material (slides)
 
 [Optimization for linear models](https://data-psl.github.io/lectures2024/slides/05_optimization_linear_models/)
+
 [Optimization for machine learning](https://data-psl.github.io/lectures2024/slides/06_optimization_general/)
+
 [Deep learning: convolutional neural networks](https://data-psl.github.io/lectures2024/slides/07_deep_learning/)
+
 [Unsupervised learning](https://data-psl.github.io/lectures2024/slides/08_unsupervised_learning/)
 
 ## Acknowledgements
