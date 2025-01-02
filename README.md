@@ -11,26 +11,26 @@ These practical sessions will necessitate the use of Python 3 with the standard 
   - [Python basics](https://colab.research.google.com/github/data-psl/lectures2024/blob/master/notebooks/01_python_basics.ipynb) [(corrected)](https://colab.research.google.com/github/data-psl/lectures2024/blob/master/notebooks/01_python_basics_corrected.ipynb)
   
 * (lab session) Practice of Scikit-learn.
- - [Preliminaries](https://colab.research.google.com/github/data-psl/lectures2024/blob/main/notebooks/02_sklearn/01-Preliminaries.ipynb)
- - [intro](https://colab.research.google.com/github/data-psl/lectures2024/blob/main/notebooks/02_sklearn/02.1-Machine-Learning-Intro.ipynb) [(corrected)](https://colab.research.google.com/github/data-psl/lectures2024/blob/main/notebooks/02_sklearn/02.1-Machine-Learning-Intro_corrected.ipynb)
- - [basic principles](https://colab.research.google.com/github/data-psl/lectures2024/blob/main/notebooks/02_sklearn/02.2-Basic-Principles.ipynb)   [(corrected)](https://colab.research.google.com/github/data-psl/lectures2024/blob/main/notebooks/02_sklearn/02.2-Basic-Principles_corrected.ipynb)
- - [SVM](https://colab.research.google.com/github/data-psl/lectures2024/blob/main/notebooks/02_sklearn/03.1-Classification-SVMs.ipynb)  
- - [Regression Forests](https://colab.research.google.com/github/data-psl/lectures2024/blob/main/notebooks/02_sklearn/03.2-Regression-Forests.ipynb)  [(corrected)](https://colab.research.google.com/github/data-psl/lectures2024/blob/main/notebooks/02_sklearn/03.2-Regression-Forests_corrected.ipynb)
- - [PCA](https://colab.research.google.com/github/data-psl/lectures2024/blob/main/notebooks/02_sklearn/04.1-Dimensionality-PCA.ipynb)
- - [Clustering](https://colab.research.google.com/github/data-psl/lectures2024/blob/main/notebooks/02_sklearn/04.2-Clustering-KMeans.ipynb) 
- - [GMM](https://colab.research.google.com/github/data-psl/lectures2024/blob/main/notebooks/02_sklearn/04.3-Density-GMM.ipynb) 
- - [Validation](https://colab.research.google.com/github/data-psl/lectures2024/blob/main/notebooks/02_sklearn/05-Validation.ipynb)  [(corrected)](https://colab.research.google.com/github/data-psl/lectures2024/blob/main/notebooks/02_sklearn/05-Validation_corrected.ipynb)
- - [Pipeline](https://colab.research.google.com/github/data-psl/lectures2024/blob/main/notebooks/02_sklearn/06-Pipeline.ipynb) 
+  - [Preliminaries](https://colab.research.google.com/github/data-psl/lectures2024/blob/main/notebooks/02_sklearn/01-Preliminaries.ipynb)
+  - [intro](https://colab.research.google.com/github/data-psl/lectures2024/blob/main/notebooks/02_sklearn/02.1-Machine-Learning-Intro.ipynb) [(corrected)](https://colab.research.google.com/github/data-psl/lectures2024/blob/main/notebooks/02_sklearn/02.1-Machine-Learning-Intro_corrected.ipynb)
+  - [basic principles](https://colab.research.google.com/github/data-psl/lectures2024/blob/main/notebooks/02_sklearn/02.2-Basic-Principles.ipynb)   [(corrected)](https://colab.research.google.com/github/data-psl/lectures2024/blob/main/notebooks/02_sklearn/02.2-Basic-Principles_corrected.ipynb)
+  - [SVM](https://colab.research.google.com/github/data-psl/lectures2024/blob/main/notebooks/02_sklearn/03.1-Classification-SVMs.ipynb)  
+  - [Regression Forests](https://colab.research.google.com/github/data-psl/lectures2024/blob/main/notebooks/02_sklearn/03.2-Regression-Forests.ipynb)  [(corrected)](https://colab.research.google.com/github/data-psl/lectures2024/blob/main/notebooks/02_sklearn/03.2-Regression-Forests_corrected.ipynb)
+  - [PCA](https://colab.research.google.com/github/data-psl/lectures2024/blob/main/notebooks/02_sklearn/04.1-Dimensionality-PCA.ipynb)
+  - [Clustering](https://colab.research.google.com/github/data-psl/lectures2024/blob/main/notebooks/02_sklearn/04.2-Clustering-KMeans.ipynb) 
+  - [GMM](https://colab.research.google.com/github/data-psl/lectures2024/blob/main/notebooks/02_sklearn/04.3-Density-GMM.ipynb) 
+  - [Validation](https://colab.research.google.com/github/data-psl/lectures2024/blob/main/notebooks/02_sklearn/05-Validation.ipynb)  [(corrected)](https://colab.research.google.com/github/data-psl/lectures2024/blob/main/notebooks/02_sklearn/05-Validation_corrected.ipynb)
+  - [Pipeline](https://colab.research.google.com/github/data-psl/lectures2024/blob/main/notebooks/02_sklearn/06-Pipeline.ipynb) 
 
 **Day 2** (at home)
 * (lab session) Logistic regression with gradient descent.
-- [Optimization](https://colab.research.google.com/github/data-psl/lectures2024/blob/master/notebooks/03_optimization.ipynb) and the [Corrected notebook](https://colab.research.google.com/github/data-psl/lectures2024/blob/master/notebooks/03_optimization_corrected.ipynb)
+  - [Optimization](https://colab.research.google.com/github/data-psl/lectures2024/blob/master/notebooks/03_optimization.ipynb) and the [Corrected notebook](https://colab.research.google.com/github/data-psl/lectures2024/blob/master/notebooks/03_optimization_corrected.ipynb)
 
 **Day 3** (at home)
 * (lab session) Classification with Pytorch and GPUs
-- [Notebook 1](https://colab.research.google.com/github/data-psl/lectures2024/blob/main/notebooks/04_pytorch/01_introduction_to_pytorch.ipynb)
-- [Notebook 2](https://colab.research.google.com/github/data-psl/lectures2024/blob/main/notebooks/04_pytorch/02_simple_neural_network.ipynb)  [Corrected notebook](https://colab.research.google.com/github/data-psl/lectures2024/blob/main/notebooks/04_pytorch/02_simple_neural_network_corrected.ipynb)
-- [Notebook 3](https://colab.research.google.com/github/data-psl/lectures2024/blob/main/notebooks/04_pytorch/03_convolutional_neural_network_mnist.ipynb) [Corrected notebook](https://colab.research.google.com/github/data-psl/lectures2024/blob/main/notebooks/04_pytorch/03_convolutional_neural_network_mnist_corrected.ipynb)
+  - [Notebook 1](https://colab.research.google.com/github/data-psl/lectures2024/blob/main/notebooks/04_pytorch/01_introduction_to_pytorch.ipynb)
+  - [Notebook 2](https://colab.research.google.com/github/data-psl/lectures2024/blob/main/notebooks/04_pytorch/02_simple_neural_network.ipynb)  [Corrected notebook](https://colab.research.google.com/github/data-psl/lectures2024/blob/main/notebooks/04_pytorch/02_simple_neural_network_corrected.ipynb)
+  - [Notebook 3](https://colab.research.google.com/github/data-psl/lectures2024/blob/main/notebooks/04_pytorch/03_convolutional_neural_network_mnist.ipynb) [Corrected notebook](https://colab.research.google.com/github/data-psl/lectures2024/blob/main/notebooks/04_pytorch/03_convolutional_neural_network_mnist_corrected.ipynb)
 
 ## Lectures
 
