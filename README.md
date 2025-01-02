@@ -13,10 +13,10 @@ This class was intially designed for the preparatory week of PSL. In this repo, 
   [Introduction to machine learning](./slides/02_intro_to_machine_learning)
 
 * 14:00--15:30: (course) Machine learning models (linear, trees, neural networks).
-  [Supervised machine learning models](https://data-psl.github.io/lectures2024/slides/03_machine_learning_models/)
+  [Supervised machine learning models](./slides/03_machine_learning_models/)
 
 * 16:00-17:30: (course) Scikit-learn: estimation/prediction/transformation.
-  [Scikit-learn: estimation and pipelines](https://data-psl.github.io/lectures2024/slides/04_scikit_learn/)
+  [Scikit-learn: estimation and pipelines](./slides/04_scikit_learn/)
 
 ## Practical sessions
 
