@@ -7,10 +7,10 @@ This class was intially designed for the preparatory week of PSL. In this repo, 
 **Day 1**
 
 * 9:00--10:20: (course) Machine learning: recent successes.
-  [Machine learning: history, application, successes](https://data-psl.github.io/lectures2024/slides/01_machine_learning_successes)
+  [Machine learning: history, application, successes](./slides/01_machine_learning_successes)
 
 * 10:40-12:00: (course) Introduction to machine learning.
-  [Introduction to machine learning](https://data-psl.github.io/lectures2024/slides/02_intro_to_machine_learning)
+  [Introduction to machine learning](./slides/02_intro_to_machine_learning)
 
 * 14:00--15:30: (course) Machine learning models (linear, trees, neural networks).
   [Supervised machine learning models](https://data-psl.github.io/lectures2024/slides/03_machine_learning_models/)
