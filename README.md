@@ -1,61 +1,16 @@
-# Machine learning preparatory week @PSL
+# Intro to ML
 
-## Discord server
+This class was intially designed for the preparatory week of PSL. In this repo, I make some adjustment to fit it to an audience of engineers.
 
-The afternoon are dedicated to practical sessions using Python. Students will be on their own under a weak supervision from the teachers. Students can use the [discord server](https://discord.gg/ZcBReVVbdZ) chat to communicate, share information, codes, data and help each other during these session.
+## Practical sessions
 
 These practical sessions will necessitate the use of Python 3 with the standard Scipy ecosystem, Scikit-learn and Pytorch. They will make use of Jupyter notebooks. The easiest way to proceed is to have a gmail account and make use of a remote [Google Colab](https://colab.research.google.com/) to run the notebooks.
 
-## Expected Program
-This program is a first draft. It can change. The basic pattern is: course in the morning and labs in the afternoon. 
-Check for updates with the teachers on the first day. You are required to bring your computers for the practical sessions.
-
-**Day 1** (Wednesday August 28, 2024):
-* 9:00--10:30: (course) Machine learning: recent successes.
-* 11:00-12:30: (course) Introduction to machine learning.
-* 14:00-17:30: (lab session) Introduction to Python and Numpy for data sciences.
-
-**Day 2** (Thursday August 29, 2024):
-* 9:00--10:30: (course) Machine learning models (linear, trees, neural networks).
-* 11:00-12:30: (course) Scikit-learn: estimation/prediction/transformation.
-* 14:00-17:30: (lab session) Practice of Scikit-learn.
-
-**Day 3** (Friday August 30, 2024):
-* 9:00-12:30: (course) The linear model, optimization
-* 14:00-17:30: (lab session) Logistic regression with gradient descent.
-
-**Day 4** (Monday September 2, 2024):
-* 9:00-10:30: (course) Introduction to Deep-Learning
-* 11:00-12:30: (course) Introduction to unsupervised learning
-* 14:00-17:00 (lab session) Practical session
-
-**Day 5** (Tuesday September 3, 2024):
-* Dario Colazzo  (course/lab session) Spark for ML, part 1 and 2
-
-## Lectures
-
-### Machine learning part
-
-  1. [Machine learning: history, application, successes](https://data-psl.github.io/lectures2024/slides/01_machine_learning_successes)
-  2. [Introduction to machine learning](https://data-psl.github.io/lectures2024/slides/02_intro_to_machine_learning)
-  3. [Supervised machine learning models](https://data-psl.github.io/lectures2024/slides/03_machine_learning_models/)
-  4. [Scikit-learn: estimation and pipelines](https://data-psl.github.io/lectures2024/slides/04_scikit_learn/)
-  5. [Optimization for linear models](https://data-psl.github.io/lectures2024/slides/05_optimization_linear_models/)
-  6. [Optimization for machine learning](https://data-psl.github.io/lectures2024/slides/06_optimization_general/)
-  7. [Deep learning: convolutional neural networks](https://data-psl.github.io/lectures2024/slides/07_deep_learning/)
-  8. [Unsupervised learning](https://data-psl.github.io/lectures2024/slides/08_unsupervised_learning/)
-
-### Spark and Machine Learning
-[Slides from Dario Colazzo](https://data-psl.github.io/lectures2024/slides/psl-pw2021-colazzo.pdf)
-
-
-## Practical works
-
-Links open Colab notebooks. You may also clone [this repository](https://github.com/data-psl/lectures2024) and work locally.
-
- 1. Wednesday: [Python basics](https://colab.research.google.com/github/data-psl/lectures2024/blob/master/notebooks/01_python_basics.ipynb) and the [Corrected notebook](https://colab.research.google.com/github/data-psl/lectures2024/blob/master/notebooks/01_python_basics_corrected.ipynb)
- 2. Thursday: Practice of Scikit-learn 
-
+**Day 1** (at home)
+* (lab session) Introduction to Python and Numpy for data sciences.
+  - [Python basics](https://colab.research.google.com/github/data-psl/lectures2024/blob/master/notebooks/01_python_basics.ipynb) [(corrected)](https://colab.research.google.com/github/data-psl/lectures2024/blob/master/notebooks/01_python_basics_corrected.ipynb)
+  
+* (lab session) Practice of Scikit-learn.
  - [Preliminaries](https://colab.research.google.com/github/data-psl/lectures2024/blob/main/notebooks/02_sklearn/01-Preliminaries.ipynb)
  - [intro](https://colab.research.google.com/github/data-psl/lectures2024/blob/main/notebooks/02_sklearn/02.1-Machine-Learning-Intro.ipynb) [(corrected)](https://colab.research.google.com/github/data-psl/lectures2024/blob/main/notebooks/02_sklearn/02.1-Machine-Learning-Intro_corrected.ipynb)
  - [basic principles](https://colab.research.google.com/github/data-psl/lectures2024/blob/main/notebooks/02_sklearn/02.2-Basic-Principles.ipynb)   [(corrected)](https://colab.research.google.com/github/data-psl/lectures2024/blob/main/notebooks/02_sklearn/02.2-Basic-Principles_corrected.ipynb)
@@ -67,19 +22,34 @@ Links open Colab notebooks. You may also clone [this repository](https://github.
  - [Validation](https://colab.research.google.com/github/data-psl/lectures2024/blob/main/notebooks/02_sklearn/05-Validation.ipynb)  [(corrected)](https://colab.research.google.com/github/data-psl/lectures2024/blob/main/notebooks/02_sklearn/05-Validation_corrected.ipynb)
  - [Pipeline](https://colab.research.google.com/github/data-psl/lectures2024/blob/main/notebooks/02_sklearn/06-Pipeline.ipynb) 
 
- 3. Friday: [Optimization](https://colab.research.google.com/github/data-psl/lectures2024/blob/master/notebooks/03_optimization.ipynb) and the [Corrected notebook](https://colab.research.google.com/github/data-psl/lectures2024/blob/master/notebooks/03_optimization_corrected.ipynb)
- 4. Monday: Classification with PyTorch and GPUs
+**Day 2** (at home)
+* (lab session) Logistic regression with gradient descent.
+- [Optimization](https://colab.research.google.com/github/data-psl/lectures2024/blob/master/notebooks/03_optimization.ipynb) and the [Corrected notebook](https://colab.research.google.com/github/data-psl/lectures2024/blob/master/notebooks/03_optimization_corrected.ipynb)
 
- - [Notebook 1](https://colab.research.google.com/github/data-psl/lectures2024/blob/main/notebooks/04_pytorch/01_introduction_to_pytorch.ipynb)
- - [Notebook 2](https://colab.research.google.com/github/data-psl/lectures2024/blob/main/notebooks/04_pytorch/02_simple_neural_network.ipynb)  [Corrected notebook](https://colab.research.google.com/github/data-psl/lectures2024/blob/main/notebooks/04_pytorch/02_simple_neural_network_corrected.ipynb)
- - [Notebook 3](https://colab.research.google.com/github/data-psl/lectures2024/blob/main/notebooks/04_pytorch/03_convolutional_neural_network_mnist.ipynb) [Corrected notebook](https://colab.research.google.com/github/data-psl/lectures2024/blob/main/notebooks/04_pytorch/03_convolutional_neural_network_mnist_corrected.ipynb)
+**Day 3** (at home)
+* (lab session) Classification with Pytorch and GPUs
+- [Notebook 1](https://colab.research.google.com/github/data-psl/lectures2024/blob/main/notebooks/04_pytorch/01_introduction_to_pytorch.ipynb)
+- [Notebook 2](https://colab.research.google.com/github/data-psl/lectures2024/blob/main/notebooks/04_pytorch/02_simple_neural_network.ipynb)  [Corrected notebook](https://colab.research.google.com/github/data-psl/lectures2024/blob/main/notebooks/04_pytorch/02_simple_neural_network_corrected.ipynb)
+- [Notebook 3](https://colab.research.google.com/github/data-psl/lectures2024/blob/main/notebooks/04_pytorch/03_convolutional_neural_network_mnist.ipynb) [Corrected notebook](https://colab.research.google.com/github/data-psl/lectures2024/blob/main/notebooks/04_pytorch/03_convolutional_neural_network_mnist_corrected.ipynb)
 
-## Teachers
+## Lectures
 
- * Come Fiegel (ENSAE)
- * [Hugo Richard](https://hugorichard.github.io/) (Criteo)
- * [Dario Colazzo](https://www.lamsade.dauphine.fr/~colazzo/) (Dauphine Université)
- * [Thierry Kirat](https://irisso.dauphine.fr/membres/detail-cv.html?tx_sngprofiles_displayprofiles%5Bprofile%5D=2548&tx_sngprofiles_displayprofiles%5Baction%5D=show&tx_sngprofiles_displayprofiles%5Bcontroller%5D=Profile&cHash=172591dfb873872cfb5df5536a3e51cc) (Dauphine Université)
+**Day 1**
+* 9:00--10:20: (course) Machine learning: recent successes.
+  [Machine learning: history, application, successes](https://data-psl.github.io/lectures2024/slides/01_machine_learning_successes)
+* 10:40-12:00: (course) Introduction to machine learning.
+  [Introduction to machine learning](https://data-psl.github.io/lectures2024/slides/02_intro_to_machine_learning)
+* 14:00--15:30: (course) Machine learning models (linear, trees, neural networks).
+  [Supervised machine learning models](https://data-psl.github.io/lectures2024/slides/03_machine_learning_models/)
+* 16:00-17:30: (course) Scikit-learn: estimation/prediction/transformation.
+  [Scikit-learn: estimation and pipelines](https://data-psl.github.io/lectures2024/slides/04_scikit_learn/)
+
+## Additional material (slides)
+
+[Optimization for linear models](https://data-psl.github.io/lectures2024/slides/05_optimization_linear_models/)
+[Optimization for machine learning](https://data-psl.github.io/lectures2024/slides/06_optimization_general/)
+[Deep learning: convolutional neural networks](https://data-psl.github.io/lectures2024/slides/07_deep_learning/)
+[Unsupervised learning](https://data-psl.github.io/lectures2024/slides/08_unsupervised_learning/)
 
 ## Acknowledgements
 
